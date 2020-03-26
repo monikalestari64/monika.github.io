@@ -1,0 +1,35 @@
+body{
+	background: azure;
+}
+
+h1{
+	text-align: center;
+	color: pink;
+}
+
+p{
+	text-align: justify;
+	color :black;
+}
+
+h2{
+	text-align: center;
+	color :black;
+}
+
+img{
+	border-radius: 50%;
+	width:200px;  
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+button{
+	background color: blue;
+	color:black;
+}
+
+ul{
+	color: black;
+}
